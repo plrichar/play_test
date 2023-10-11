@@ -1,4 +1,3 @@
-# play_test
 - name: crée un fichier
   hosts: all
   tasks:
